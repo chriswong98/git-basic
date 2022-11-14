@@ -1,3 +1,4 @@
 Hello World!
 Git commit!
 Git pull!
+Command add is to add changes to the staging area but commit is to commit those changes. Finally, we push the local commits to publish them to GitHub.
